@@ -32,7 +32,7 @@ Check whether the block (element) has the modifier.
 ```js
 this.setMod([elem], modName, modVal)
 ```
-Set modificator. **NOTE: This doesn't work:**
+Set modifier.  **NOTE: This doesn't work:**
 ```js
 this.elem('elemName').setMod(...)
 ```
